@@ -1,0 +1,4 @@
+Agumas ferramentas de busca:
+
+1 - Poda de arvore (Reduz o tempo da busca).
+2 - Metodo miniMax (Verifica as melhores escolhas).
